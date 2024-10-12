@@ -1,0 +1,16 @@
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\bin\Debug\net6.0-windows\timer tpis.exe
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\bin\Debug\net6.0-windows\timer tpis.deps.json
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\bin\Debug\net6.0-windows\timer tpis.runtimeconfig.json
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\bin\Debug\net6.0-windows\timer tpis.dll
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\bin\Debug\net6.0-windows\timer tpis.pdb
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer_tpis.Form1.resources
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.csproj.GenerateResource.cache
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.AssemblyInfoInputs.cache
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.AssemblyInfo.cs
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.csproj.CoreCompileInputs.cache
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.dll
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\refint\timer tpis.dll
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.pdb
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\timer tpis.genruntimeconfig.cache
+C:\Users\romeo.21280\source\repos\timer tpis\timer tpis\obj\Debug\net6.0-windows\ref\timer tpis.dll
