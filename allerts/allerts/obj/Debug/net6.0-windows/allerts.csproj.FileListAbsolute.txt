@@ -1,0 +1,16 @@
+C:\Users\romeo.21280\source\repos\allerts\allerts\bin\Debug\net6.0-windows\allerts.exe
+C:\Users\romeo.21280\source\repos\allerts\allerts\bin\Debug\net6.0-windows\allerts.deps.json
+C:\Users\romeo.21280\source\repos\allerts\allerts\bin\Debug\net6.0-windows\allerts.runtimeconfig.json
+C:\Users\romeo.21280\source\repos\allerts\allerts\bin\Debug\net6.0-windows\allerts.dll
+C:\Users\romeo.21280\source\repos\allerts\allerts\bin\Debug\net6.0-windows\allerts.pdb
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.Form1.resources
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.csproj.GenerateResource.cache
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.AssemblyInfoInputs.cache
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.AssemblyInfo.cs
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.csproj.CoreCompileInputs.cache
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.dll
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\refint\allerts.dll
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.pdb
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\allerts.genruntimeconfig.cache
+C:\Users\romeo.21280\source\repos\allerts\allerts\obj\Debug\net6.0-windows\ref\allerts.dll
